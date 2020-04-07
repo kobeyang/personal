@@ -1,0 +1,11 @@
+1. Follow this to install everything needed https://gist.github.com/kevin-smets/8568070
+2. Append '>' to 'PROMPT+' in file .oh-my-zsh/themes/robbyrussell.zsh-theme
+3. Set .vimrc
+4. Set .gitconfig
+5. brew install ripgrep && put 'alias s=rg' in file .zshrc
+6. install fzf - https://github.com/junegunn/fzf
+
+
+Others:
+1. Install GitHub Destop - https://desktop.github.com/
+2. Install SizeUp - http://www.irradiatedsoftware.com/sizeup/
