@@ -1,3 +1,4 @@
+0. Install iTerm2 and Dracula theme (https://draculatheme.com/iterm/).
 1. Follow this to install everything needed https://gist.github.com/kevin-smets/8568070
 2. Append '>' to 'PROMPT+' in file .oh-my-zsh/themes/robbyrussell.zsh-theme
 3. Set .vimrc
